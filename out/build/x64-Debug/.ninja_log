@@ -1,0 +1,7 @@
+# ninja log v5
+6	1131	6726833103953336	CMakeFiles/des-model-example.dir/main.cpp.obj	844fbdcea4f1487
+5	1148	6726833104100988	CMakeFiles/des-model-example.dir/src/graph_translators.cpp.obj	d0e582e80a15cb7a
+3	1211	6726833104920391	CMakeFiles/des-model.dir/src/automation.cpp.obj	b38a2f34eb482b05
+0	1228	6726833105103175	CMakeFiles/des-model.dir/src/components.cpp.obj	6e6aba98b808f46e
+1229	1610	6726833105103175	des-model.dll	e7c0ccd184782ea4
+1229	1610	6726833105103175	des-model.lib	e7c0ccd184782ea4

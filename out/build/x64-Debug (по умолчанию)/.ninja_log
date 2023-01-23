@@ -1,0 +1,19 @@
+# ninja log v5
+7	1565	670692723	CMakeFiles/des-model-example.dir/main.cpp.obj	62035493504596f9
+10	1571	670692723	CMakeFiles/des-model-example.dir/src/graph_translators.cpp.obj	74dc705b0cf7ba2f
+5	1659	670692723	CMakeFiles/des-model.dir/src/automation.cpp.obj	bb978bf229538faf
+1	1676	670692723	CMakeFiles/des-model.dir/src/components.cpp.obj	ca921af07128adb2
+1677	2135	670692723	des-model.dll	e9ad6a3bc163458b
+1677	2135	670692723	des-model.lib	e9ad6a3bc163458b
+1	516	670692723	des-model.dll	e9ad6a3bc163458b
+1	516	670692723	des-model.lib	e9ad6a3bc163458b
+1	539	670692723	des-model.dll	e9ad6a3bc163458b
+1	539	670692723	des-model.lib	e9ad6a3bc163458b
+1	331	670692723	des-model.dll	e9ad6a3bc163458b
+1	331	670692723	des-model.lib	e9ad6a3bc163458b
+1	702	670692723	des-model.dll	e9ad6a3bc163458b
+1	702	670692723	des-model.lib	e9ad6a3bc163458b
+7	1533	672148659	CMakeFiles/des-model-example.dir/main.cpp.obj	62035493504596f9
+4	1599	672148660	CMakeFiles/des-model.dir/src/automation.cpp.obj	bb978bf229538faf
+1601	2241	672148660	des-model.dll	e9ad6a3bc163458b
+1601	2241	672148660	des-model.lib	e9ad6a3bc163458b
