@@ -1,0 +1,4 @@
+C:/Users/Александра/Documents/МГТУ/НИРС/simple-des-model/simple-des-model/out/build/x64-Debug/CMakeFiles/des-model.dir
+C:/Users/Александра/Documents/МГТУ/НИРС/simple-des-model/simple-des-model/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Александра/Documents/МГТУ/НИРС/simple-des-model/simple-des-model/out/build/x64-Debug/CMakeFiles/des-model-example.dir
+C:/Users/Александра/Documents/МГТУ/НИРС/simple-des-model/simple-des-model/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
